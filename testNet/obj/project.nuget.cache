@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6uB/j+OchjHZxh8hZYJn6QVAu545kMfY+Bv5l3hxOXBDqEB4yUwzZ25RHOQiJ98fnSD7FwHGqweUuBeOCyM8Q==",
+  "success": true,
+  "projectFilePath": "/home/vova/testNet/testNet.csproj",
+  "expectedPackageFiles": [
+    "/home/vova/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/3.1.22/microsoft.netcore.app.runtime.linux-x64.3.1.22.nupkg.sha512",
+    "/home/vova/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/3.1.22/microsoft.aspnetcore.app.runtime.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
